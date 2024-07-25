@@ -96,4 +96,7 @@ public class ChatServer {
 			System.out.println("[서버] " + e.getMessage());
 		}		
 	}
+	// 	freshman 이 추가 작업을 수행함
+	// 	freshman 이 추가 작업을 수행함
+	// 	freshman 이 추가 작업을 수행함 
 }

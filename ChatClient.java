@@ -71,7 +71,9 @@ public class ChatClient {
 			System.out.println("보낼 메시지를 입력하고 Enter");
 			System.out.println("채팅를 종료하려면 q를 입력하고 Enter");
 			System.out.println("--------------------------------------------------");
-			
+		// freshman 이 수정 작업을 수행함
+		// 	freshman 이 수정 작업을 수행함
+		// 	freshman 이 수정 작업을 수행함
 			while(true) {
 				String message = scanner.nextLine();
 				if(message.toLowerCase().equals("q")) {
