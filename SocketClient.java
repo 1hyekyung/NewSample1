@@ -75,4 +75,7 @@ public class SocketClient {
 			socket.close();
 		} catch(Exception e) { }		
 	}
+	// 추가 작업 진행함
+	// 추가 작업 진행함
+	// 추가 작업 진행함
 }
